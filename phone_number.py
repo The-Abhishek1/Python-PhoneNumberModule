@@ -39,4 +39,4 @@ print(tz.time_zones_for_geographical_number(phone_number4))
 print(tz.time_zones_for_number(phone_number4))
 
 print("\n Validating phone numbers\n")
-print(pn.is_possible_number(phone_number1))
+print(pn.is_possible_number(phone_number2))
